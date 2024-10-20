@@ -3,8 +3,6 @@ package Clase2;
 import static Clase2.Ejercicio1.ArrayAleatorio;
 import static Clase2.Ejercicio1.ImprimirArray;
 import static Clase2.Ejercicio2.PromedioArray;
-import static Clase2.Ejercicio3.MayorEnArray;
-import static Clase2.Ejercicio4.MenorEnArray;
 
 public class Ejercicio6 {
     public static double DesviacionEstandarArray(int[] array){

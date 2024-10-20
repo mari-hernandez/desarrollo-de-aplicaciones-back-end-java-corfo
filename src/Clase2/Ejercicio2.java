@@ -1,7 +1,5 @@
 package Clase2;
 
-import java.util.Random;
-
 import static Clase2.Ejercicio1.ArrayAleatorio;
 import static Clase2.Ejercicio1.ImprimirArray;
 

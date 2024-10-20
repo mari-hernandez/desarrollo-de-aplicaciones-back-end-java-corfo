@@ -2,8 +2,6 @@ package Clase2;
 
 import static Clase2.Ejercicio1.ArrayAleatorio;
 import static Clase2.Ejercicio1.ImprimirArray;
-import static Clase2.Ejercicio2.PromedioArray;
-import static Clase2.Ejercicio6.DesviacionEstandarArray;
 
 public class Ejercicio8 {
     public static int[][] MatrizDiferenciaElementosArray(int[] array){
