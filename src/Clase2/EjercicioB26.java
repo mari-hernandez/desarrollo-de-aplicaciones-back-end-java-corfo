@@ -5,7 +5,7 @@ import java.util.Stack;
 public class EjercicioB26 {
     public static Boolean serieValida(String cadena){
 
-        Stack<Character> pila= new Stack();
+        Stack<Character> pila= new Stack<Character>();
 
         for(int i=0; i< cadena.length(); i++){
             char elemento = cadena.charAt(i);
